@@ -1,3 +1,5 @@
+#Programa de Regresion Lineal Platzi
+#Creado por Walter Nova 14-06-21
 import numpy as np
 import matplotlib.pyplot as plt
 
